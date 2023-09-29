@@ -1,2 +1,2 @@
 # Sistema-De-Ecuaciones-Linealies
-Aplicativo web capaz de resolver ecuaciones lineales con x incognittas usando diferenttes metodos numericos y  
+Aplicativo web capaz de resolver ecuaciones lineales con x numero de incognitas usando diferenttes metodos numericos 
